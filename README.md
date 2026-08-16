@@ -6,7 +6,8 @@ AI-powered subscription intelligence platform that detects recurring payments, z
 [View Live Application](https://shrug-hub-92562494.figma.site/)
 
 ## 🎥 Video Demonstration
-[Watch Demo Video on Google Drive](https://drive.google.com/file/d/11bAoD6uqRglNIpwFG-0FMfbLVTz0L20-/view?usp=sharing)
+[![Watch Demo Video](docs/screenshots/dashboard.png)](https://drive.google.com/file/d/11bAoD6uqRglNIpwFG-0FMfbLVTz0L20-/view?usp=sharing)
+*Click the image above to watch the full demo on Google Drive.*
 
 ## 📸 Preview
 ### Landing Page
