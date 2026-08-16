@@ -5,8 +5,18 @@ AI-powered subscription intelligence platform that detects recurring payments, z
 ## 🔗 Live Demo
 [View Live Application](https://shrug-hub-92562494.figma.site/)
 
+## 🎥 Video Demonstration
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/11bAoD6uqRglNIpwFG-0FMfbLVTz0L20-/view?usp=sharing)
+
 ## 📸 Preview
+### Landing Page
+![SubGuard AI Landing](docs/screenshots/landing.png)
+
+### Dashboard
 ![SubGuard AI Dashboard](docs/screenshots/dashboard.png)
+
+### Settings & Profile
+![SubGuard AI Settings](docs/screenshots/settings.png)
 
 ## ✨ Features
 - 🔍 **Recurring subscription detection**: Identifies all active recurring charges.
@@ -59,7 +69,7 @@ src/
 
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/subguard-ai.git
+git clone https://github.com/ASHIK311/subguard-ai.git
 ```
 
 Install dependencies:
