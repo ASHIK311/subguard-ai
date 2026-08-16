@@ -1,0 +1,117 @@
+import WebThreads from './WebThreads';
+
+<div style={{ width: '100%', height: '600px', position: 'relative' }}>
+  <WebThreads
+    color1="#5227FF"
+    color2="#FF9FFC"
+    color3="#FFFFFF"
+    speed={0.2}
+    threadCount={6}
+    frequency={5}
+    spread={0.18}
+    taper={1}
+    position={0.5}
+    fanMode="center"
+    glow={0.02}
+    falloff={0.6}
+    thickness={1.1}
+    brightness={0.6}
+    opacity={1}
+    mirror
+    shimmer={false}
+    grain
+    grainIntensity={0.05}
+    mouseInteraction
+    mouseStrength={0.3}
+  />
+</div>
+
+use this baground for another page which sute able
+
+and use 2nd this one for the best place
+
+import Prism from './Prism';
+
+<div style={{ width: '100%', height: '600px', position: 'relative' }}>
+  <Prism
+    animationType="rotate"
+    timeScale={0.5}
+    height={3.5}
+    baseWidth={5.5}
+    scale={3.6}
+    hueShift={0}
+    colorFrequency={1}
+    noise={0}
+    glow={1}
+  />
+</div>
+
+import LightPillar from './LightPillar';
+
+<div style={{ width: '100%', height: '600px', position: 'relative' }}>
+  <LightPillar
+    topColor="#5227FF"
+    bottomColor="#FF9FFC"
+    intensity={1}
+    rotationSpeed={0.3}
+    glowAmount={0.002}
+    pillarWidth={3}
+    pillarHeight={0.4}
+    noiseIntensity={0.5}
+    pillarRotation={25}
+    interactive={false}
+    mixBlendMode="screen"
+    quality="high"
+/>
+</div>
+
+use this one for the 1st place pahe screoon down 2nd page
+
+and use this last one for dashbord tab 2nd or 1st place
+
+import Hyperspeed from './Hyperspeed';
+
+// the component will fill the height/width of its parent container, edit the CSS to change this
+// the options below are the default values
+// TIP: if you pass custom effectOptions, memoize the object (e.g. useMemo or a constant)
+// to avoid unnecessary re-renders and WebGL scene recreations
+
+<Hyperspeed
+  effectOptions={{"distortion":"turbulentDistortion","length":400,"roadWidth":10,"islandWidth":2,"lanesPerRoad":3,"fov":90,"fovSpeedUp":150,"speedUp":2,"carLightsFade":0.4,"totalSideLightSticks":20,"lightPairsPerRoadWay":40,"shoulderLinesWidthPercentage":0.05,"brokenLinesWidthPercentage":0.1,"brokenLinesLengthPercentage":0.5,"lightStickWidth":[0.12,0.5],"lightStickHeight":[1.3,1.7],"movingAwaySpeed":[60,80],"movingCloserSpeed":[-120,-160],"carLightsLength":[12,80],"carLightsRadius":[0.05,0.14],"carWidthPercentage":[0.3,0.5],"carShiftX":[-0.8,0.8],"carFloorSeparation":[0,5],"colors":{"roadColor":526344,"islandColor":657930,"background":0,"shoulderLines":1250072,"brokenLines":1250072,"leftCars":[14177983,6770850,12732332],"rightCars":[242627,941733,3294549],"sticks":242627}}}
+    onSpeedUp: () => { },
+    onSlowDown: () => { },
+    distortion: 'turbulentDistortion',
+    length: 400,
+    roadWidth: 10,
+    islandWidth: 2,
+    lanesPerRoad: 4,
+    fov: 90,
+    fovSpeedUp: 150,
+    speedUp: 2,
+    carLightsFade: 0.4,
+    totalSideLightSticks: 20,
+    lightPairsPerRoadWay: 40,
+    shoulderLinesWidthPercentage: 0.05,
+    brokenLinesWidthPercentage: 0.1,
+    brokenLinesLengthPercentage: 0.5,
+    lightStickWidth: [0.12, 0.5],
+    lightStickHeight: [1.3, 1.7],
+    movingAwaySpeed: [60, 80],
+    movingCloserSpeed: [-120, -160],
+    carLightsLength: [400 * 0.03, 400 * 0.2],
+    carLightsRadius: [0.05, 0.14],
+    carWidthPercentage: [0.3, 0.5],
+    carShiftX: [-0.8, 0.8],
+    carFloorSeparation: [0, 5],
+    colors: {
+      roadColor: 0x080808,
+      islandColor: 0x0a0a0a,
+      background: 0x000000,
+      shoulderLines: 0xFFFFFF,
+      brokenLines: 0xFFFFFF,
+      leftCars: [0xD856BF, 0x6750A2, 0xC247AC],
+      rightCars: [0x03B3C3, 0x0E5EA5, 0x324555],
+      sticks: 0x03B3C3,
+    }
+  }}
+/>
