@@ -2,12 +2,17 @@
 
 AI-powered subscription intelligence platform that detects recurring payments, zombie subscriptions, stealth price hikes, duplicate services and potential savings.
 
-## 🔗 Live Demo
-[View Live Application](https://shrug-hub-92562494.figma.site/)
-
-## 🎥 Video Demonstration
-[![Watch Demo Video](docs/screenshots/dashboard.png)](https://drive.google.com/file/d/11bAoD6uqRglNIpwFG-0FMfbLVTz0L20-/view?usp=sharing)
-*Click the image above to watch the full demo on Google Drive.*
+<div align="center">
+  <br />
+  <a href="https://shrug-hub-92562494.figma.site/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_View_Live_Application-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/11bAoD6uqRglNIpwFG-0FMfbLVTz0L20-/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/🎥_Watch_Video_Demonstration-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo" />
+  </a>
+</div>
+<br />
 
 ## 📸 Preview
 ### Landing Page
